@@ -1,2 +1,3 @@
-# hello_quantum_world
-Program interacting with quantum computer via IBM Qiskit python library
+Qiskit Entanglement Model
+<br><br>
+Interacting with IBM quantum computers via Qiskit python library.
